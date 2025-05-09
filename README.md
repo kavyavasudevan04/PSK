@@ -59,6 +59,10 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/7fedbee1-d358-4bbc-babd-659b82b2c3f6)
 
+## Graph
+![WhatsApp Image 2025-05-09 at 11 31 07_14a9938a](https://github.com/user-attachments/assets/5f7b5bea-82bd-441f-b14d-7ab4141f9b94)
+
+
 
 
 ## Results
